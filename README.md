@@ -1,5 +1,14 @@
 # php8-apache-focal
 
+Docker Image based on Ubuntu 20.04 LTS (Focal Fossa)
+
+Includes:
+- Apache
+- PHP 8
+- PHP Extensions
+- MySQL 8.0.19
+- phpMyAdmin 5.1.0
+
 **Usage:**
 
 *Building & Starting*
