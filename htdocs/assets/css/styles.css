@@ -6,12 +6,15 @@ body {
 
 .container {
   display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   height: 100vh;
   justify-content: center;
   align-items: center;
 }
 
 .logo {
+  align-self: stretch;
   display: block;
   margin-left: auto;
   margin-right: auto;

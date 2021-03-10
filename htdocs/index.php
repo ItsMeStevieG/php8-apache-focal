@@ -20,8 +20,10 @@
 
 <body>
     <div class="container">
-        <img src="assets/img/logo.jpeg" alt="LAMP Logo" />
+        <img src="assets/img/logo.jpeg" alt="LAMP Logo" class="row mb-4" /><br />
+        <a href="info.php" class="btn btn-primary row">PHPInfo</a>
     </div>
+
 </body>
 
 </html>
